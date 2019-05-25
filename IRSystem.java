@@ -5,11 +5,11 @@ Course: 			4315
 Semester: 		Spring 2018
 Assignment #: 	3
 Description: 	Creates a search-able inverted index and bi-word index from files
-				within a user specified directory. Includes a GUI that allows
+				within a user specified directory and sub directories. Includes a GUI that allows
 				for the input of search queries, each query is evaluated for possible
 				misspellings and checked against a soundex as needed. Results are ranked 
-				with a combination of TF-IDF and Weighted Zone Scoring and the top 5 
-				ranking documents for a query are displayed to the GUI where a user can 
+				with a combination of TF-IDF and Weighted Zone Scoring and documents 
+				for a query are displayed to the GUI in ranked order where a user can 
 				select and open a given file. Additionally, on user selection of a 
 				directory path the system will check for an existing index and attempt
 				to load it instead of re-indexing. Once either the index is built or the
@@ -22,8 +22,8 @@ Description: 	Creates a search-able inverted index and bi-word index from files
 				Zone weights are as follows:
 				
 				Title (first line): 0.5
-				First Sentence: 	0.3
-				Body: 				0.2
+				First Sentence:     0.3
+				Body: 		    0.2
 --------------------------------------------------------------------------------------*/
 
 import java.io.*;
