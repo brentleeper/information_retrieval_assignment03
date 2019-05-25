@@ -3,7 +3,7 @@ Name: 			Brent Leeper
 Date: 			3/26/18
 Course: 			4315
 Semester: 		Spring 2018
-Assignment #: 	1
+Assignment #: 	3
 Description: 	Document Information for IR system. 
 				A DocumentInfo object holds information to reference the actual document 
 				it represents. It also contains information collected from the reference 
