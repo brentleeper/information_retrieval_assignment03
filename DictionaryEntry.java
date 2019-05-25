@@ -3,7 +3,7 @@ Name: 			Brent Leeper
 Date: 			3/26/18
 Course: 			4315
 Semester: 		Spring 2018
-Assignment #: 	1
+Assignment #: 	3
 Description: 	Dictionary Entry for IR system. 
 				A Dictionary entry holds a single word and maintains a collection
 				of documents that the word is found in, as well as number of occurrences 
