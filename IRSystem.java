@@ -3,7 +3,7 @@ Name: 			Brent Leeper
 Date: 			3/23/18
 Course: 			4315
 Semester: 		Spring 2018
-Assignment #: 	2
+Assignment #: 	3
 Description: 	Creates a search-able inverted index and bi-word index from files
 				within a user specified directory. Includes a GUI that allows
 				for the input of search queries, each query is evaluated for possible
