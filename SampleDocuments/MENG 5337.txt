@@ -1,0 +1,6 @@
+MENG 5337 - Viscous Flow
+Fundamental laws of motion for a viscous fluid; classical solution of the
+Navier-Stokes equations; inviscid flow solutions; laminar boundary
+layers; stability criterion.
+Prerequisite: MENG 3310 or equivalent undergraduate fluid mechanics
+course.

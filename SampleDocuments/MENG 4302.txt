@@ -1,0 +1,5 @@
+MENG 4302 - Intermediate Dynamics
+Kinematics and dynamics of particles and rigid bodies with engineering
+applications: kinematics, inertia properties, Newton-Euler equations of
+motion, Lagrange's equations of motion. Three hours of lecture per week.
+Prerequisite: ENGR 2302, MATH 3305, MATH 3203.

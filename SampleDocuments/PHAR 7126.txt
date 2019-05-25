@@ -1,0 +1,14 @@
+PHAR 7126 - Infectious diseases – Antimicrobial Stewardship
+1
+This course reviews the importance of antimicrobial stewardship
+programs in improving outcomes in patients with infectious
+complications, while minimizing the unintended consequences of
+antimicrobial use. During this course the student will be exposed to the
+different tools needed to design and implement an antimicrobial
+stewardship program. These skills include antibiogram development,
+metrics, guideline and clinical trial reviews, and optimization of
+antimicrobial therapy. The student will also have the opportunity to meet
+other members of the antimicrobial stewardship team (infectious
+diseases physician, microbiologist, infection preventionists, pharmacists,
+informatics).
+Prerequisite: PHAR 7606.

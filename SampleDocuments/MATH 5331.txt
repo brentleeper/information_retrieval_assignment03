@@ -1,0 +1,4 @@
+MATH 5331 - Algebra
+Basic structure, substructure, morphisms, and quotient structures in the
+categories of groups, rings, and modules.
+Prerequisite: MATH 3336 or equivalent.

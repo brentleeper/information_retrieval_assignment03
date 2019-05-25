@@ -1,0 +1,4 @@
+TECH 2311 - Electrical and Fluid Systems
+An introduction to the fundamentals of mechanical and fluid power
+systems. The students are provided with lecture and laboratory
+experiences.

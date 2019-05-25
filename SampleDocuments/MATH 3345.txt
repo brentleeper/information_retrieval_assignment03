@@ -1,0 +1,4 @@
+MATH 3345 - Real Analysis I
+Study of metric spaces, sequences, series, continuous functions,
+differentiation, and integration.
+Prerequisite: MATH 2414 and MATH 3425.

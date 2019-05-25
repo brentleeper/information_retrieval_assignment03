@@ -1,0 +1,5 @@
+MARK 4340 - Consumer Insights
+Industry overview, highlighting a variety of critical retail metrics, how
+they are derived, and their implications. Utilizes technology to gain
+experience with metrics and the use of data in decision making.
+Prerequisite: MARK 3311.

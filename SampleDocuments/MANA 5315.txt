@@ -1,0 +1,4 @@
+MANA 5315 - Quantitative Management Tools
+Topics to be covered include quantitative techniques for decision
+making, linear programming, inferential statistics and selected
+quantitative models with computer applications such as SAP.

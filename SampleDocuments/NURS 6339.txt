@@ -1,0 +1,5 @@
+NURS 6339 - Mixed Methods Research Design
+This course provides an introduction to the emerging field of mixed
+methods research including research designs, strategies for sampling,
+data collection, analysis, and integration.
+Prerequisite: NURS 6330, NURS 6333.

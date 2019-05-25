@@ -1,0 +1,12 @@
+PHAR 7605 - Integrated Pharmacy 5
+This course introduces new basic science, social/behavioral, and clinical
+concepts while expanding on previously learned principles. The focus of
+this course surrounds scientific and therapeutic aspects of the renal and
+hematology systems and common diseases affecting those systems.
+Development of patient-specific therapeutic plans using prescription,
+non-pharmacological, and complementary modalities will be learned.
+Ultimately, students will be provided with the knowledge-base and
+clinical skills necessary to provide pharmaceutical care to patients with
+renal and hematologic disorders.
+Prerequisite: Prerequisites: PHAR 7604, PHAR 7244, PHAR 7164.
+Corequisite: PHAR 7245.

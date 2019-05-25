@@ -1,0 +1,6 @@
+MATH 4351 - Applied Statistics
+Emphasis on statistical thinking and real world applications. Topics
+include: experimental design, sampling distributions, confidence
+intervals, hypothesis testing, regression and correlation, analysis of
+variance, chi-squared tests, and non-parametric methods.
+Prerequisite: MATH 4350.

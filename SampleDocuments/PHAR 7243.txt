@@ -1,0 +1,10 @@
+PHAR 7243 - Pharmacy Practice Skills Laboratory – 3
+This laboratory course focuses on the application of skills and resources
+needed for pharmacists to guide patients’ self-care of smoking cessation,
+insomnia, gastrointestinal disorders, contraceptives, valvovaginal
+candidiasis, and allergic reactions. Topics include patient assessment,
+therapeutic plan formulation and counseling; evaluation of the clinical
+literature; pharmaceutical calculations; and preparation of solid and
+transdermal dosage forms.
+Prerequisite: PHAR 7602, PHAR 7242, PHAR 7161. Corequisite:
+PHAR 7603, PHAR 7162 or PHAR 7163 or PHAR 7164.

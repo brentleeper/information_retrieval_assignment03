@@ -1,0 +1,7 @@
+MATH 2325 - Functions and Modeling
+Modeling using families of functions (including linear, exponential,
+polynomial, and trigonometric functions), conic sections, parametric
+equations and polar equations. Use of multiple representations,
+transformations, data analysis techniques, and interconnections among
+geometry, probability, and algebra.
+Prerequisite: MATH 2413.

@@ -1,0 +1,3 @@
+MUSI 3342 - Electronic Music
+A survey of music technology, along with a practical introduction to
+contemporary music hardware and software applications.

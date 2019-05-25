@@ -1,0 +1,6 @@
+MENG 4317 - Vibrations
+Analysis and prediction of the free and forced dynamic behavior and of
+mechanical systems; first, second, and higher order systems; vibration
+isolation and absorption; vibration characteristics of rotating machinery.
+Three hours of lecture per week.
+Prerequisite: ENGR 2302 and MATH 3305.

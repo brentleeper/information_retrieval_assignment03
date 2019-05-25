@@ -1,0 +1,3 @@
+MATH 3336 - Abstract Algebra I
+Study of groups, rings, fields, and vector spaces.
+Prerequisite: MATH 3425.

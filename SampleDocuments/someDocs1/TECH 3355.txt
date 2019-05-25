@@ -1,0 +1,4 @@
+TECH 3355 - Supply Chain Management
+An overview of supply chain operations covering logistics, outsourcing,
+distribution, warehousing, site location, and globalization.
+Prerequisite: TECH 2323 or equivalent.

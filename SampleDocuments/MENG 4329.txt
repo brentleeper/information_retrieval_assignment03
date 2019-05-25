@@ -1,0 +1,5 @@
+MENG 4329 - Compressible Flow
+Introductory analysis of compressible flows, mathematical background,
+and physical concepts of isentropic flow, shock waves, expansion waves,
+and applications. Three hours of lecture per week.
+Prerequisite: MENG 3304 and MENG 3310.

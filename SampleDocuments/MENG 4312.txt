@@ -1,0 +1,6 @@
+MENG 4312 - System Dynamics and Control
+Dynamics of mechanical, electrical, thermal, fluid, and hybrid systems.
+System response using Laplace transform. Transfer functions. Transient
+response, Stability, Basic control algorithms, PID tuning methods,
+Frequency response, basic controller design and case studies.
+Prerequisite: EENG 3304, MENG 3301, MENG 3310.

@@ -1,0 +1,6 @@
+MANA 5325 - Global Supply Chain Management
+This course covers concepts and issues important in managing global
+supply chains. From a global perspective, the course will consider both
+a strategic and tactical viewpoint of how organizations can implement an
+effective global supply chain.
+Prerequisite: MANA 5305.

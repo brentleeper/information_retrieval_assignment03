@@ -1,0 +1,6 @@
+HRD 6351 - Intermediate Statistics
+This course covers an intermediate set of quantitative statistical analyses
+that are key to creating new knowledge in human resource development.
+Students will learn how to interpret, conduct, and report select
+quantitative statistical techniques that answer research questions or
+hypotheses that involve one dependent variable.

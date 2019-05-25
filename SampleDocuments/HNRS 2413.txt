@@ -1,0 +1,9 @@
+HNRS 2413 - Honors Calculus I
+Interdisciplinary approach to the development of calculus and physics.
+Calculus concepts will be motivated by physics concepts, giving physics
+concepts mathematical justification followed by experimental
+verification. This course covers all topics covered in MATH 2413 plus
+additional topics.
+Prerequisite: Concurrent registration in HNRS 2425 and invitation by
+Honors Committee. Students cannot receive credit for both HNRS 2413
+and MATH 2413.

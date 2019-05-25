@@ -1,0 +1,9 @@
+MENG 4323 - Introduction to Industrial Robotics
+An overview of industrial robots including manipulator arm selection
+guidelines and the application of robots in manufacturing and assembly.
+Principles of kinematics, dynamics and control of robotic manipulators.
+Robotic sensors, end effectors and actuators. Coordinate frames and
+homogeneous transformations. Robotic system integration, and path
+planning. Industrial robot programming in a laboratory setting. Three
+hours of lecture per week with integrated laboratory sessions.
+Prerequisite: MENG 3309, MATH 3203 and MATH 3305.

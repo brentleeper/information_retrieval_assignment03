@@ -1,0 +1,7 @@
+MENG 5326 - Vibration Analysis of Rotating Machinery
+Instrumentation, measurement techniques, and analytical techniques
+used in monitoring, diagnosing and evaluating the vibration of rotating
+machines in industrial environments. Three hours of lecture per week
+with integrated laboratory.
+COURSES| 73
+Prerequisite: MENG 4317 or equivalent.

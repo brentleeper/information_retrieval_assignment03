@@ -1,0 +1,6 @@
+MENG 5339 - Convection Heat Transfer
+Development of formulations governing forced, buoyancy induced, and
+phase change transport and convective motions with emphasis on the
+underlying conservation principles.
+Prerequisite: MENG 3316 and MENG 3310 or equivalent undergraduate
+heat transfer and fluid mechanics courses.

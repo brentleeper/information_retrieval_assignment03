@@ -1,0 +1,5 @@
+PADM 5338 - Program Evaluation
+Study of the role and methods of program evaluation. Topics include
+identification of program goals, research design, measurement, data
+collection, data analysis, and the consequences of program evaluation.
+Prerequisite: PADM 5396.

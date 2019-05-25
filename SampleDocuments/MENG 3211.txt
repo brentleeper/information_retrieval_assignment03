@@ -1,0 +1,9 @@
+MENG 3211 - Mechanical Engineering Laboratory II
+Introduction to basic Thermal/Fluid sciences laboratory procedures and
+practices with uncertainty analysis. Experimental topics to include fluid
+flow, heat exchanger basics, and basics of refrigeration. Student teams
+will design, analyze and document an experimental procedure. All
+procedures will result in a professional quality laboratory report. One
+hour of lecture and one three-hour lab per week.
+Prerequisite: MENG 3210; Concurrent enrollment in or completion of:
+MENG 3304, MENG 3316.

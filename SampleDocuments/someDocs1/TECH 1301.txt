@@ -1,0 +1,5 @@
+TECH 1301 - Technology and Society
+An introduction to technology systems as applied to manufacturing,
+distribution, communication, energy/power, etc. The course includes
+history, system design, operation, service, resources, products, emerging
+technological applications, and societal impact.

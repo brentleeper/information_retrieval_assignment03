@@ -1,0 +1,6 @@
+TECH 1303 - Engineering Graphics
+An introduction to engineering graphics techniques using computer
+aided drafting software. This course will cover specialized CAD
+techniques in lines, arcs, editing, and dimensioning. Also included will
+be geometric constructions, three-view drawing, sectioning, and basic 3-
+D drawing.

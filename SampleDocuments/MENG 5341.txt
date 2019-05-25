@@ -1,0 +1,6 @@
+MENG 5341 - Advanced Thermodynamics
+First law and second law of thermodynamics for closed and open
+systems. Fundamental relations. Entropy generation or exergy
+destruction. Exergy analysis. Application of thermodynamics to
+engineering energy systems. Entropy generation minimization.
+Prerequisite: MENG 3304 or equivalent.

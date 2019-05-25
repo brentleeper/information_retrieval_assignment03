@@ -1,0 +1,4 @@
+PHYS 4330 - Electricity and Magnetism
+A study of electrostatics, magnetostatics, electrodynamics in vacuum,
+Maxwell's equations and electromagnetic waves.
+Prerequisite: PHYS 2326/2126 and MATH 3404 or MATH 3305.

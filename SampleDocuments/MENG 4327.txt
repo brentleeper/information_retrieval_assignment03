@@ -1,0 +1,6 @@
+MENG 4327 - Introduction to Turbomachinery
+Fundamental aerothermodynamics and design of turbomachinery
+components, including axial and centrifugal compressors, and axial and
+radial turbines, as well as in depth analysis of Brayton cycles. Three
+hours of lecture per week with integrated laboratory sessions.
+Prerequisite: MENG 3301, MENG 3304, and MENG 3316.

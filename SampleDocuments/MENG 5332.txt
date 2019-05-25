@@ -1,0 +1,7 @@
+MENG 5332 - New Product Development
+The new product development process and the role of multidisciplinary
+teams in the product development cycle. The integration of business
+concepts with engineering methods such as quality function deployment,
+concept generation and selection, prototyping and FMEA. Three hours
+of lecture per week.
+Prerequisite: CI.

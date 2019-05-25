@@ -1,0 +1,11 @@
+MENG 4315 - Senior Design II
+The senior design project, which was begun in MENG 4115, continues
+to completion. This major capstone design project builds on previous
+course work, includes all stages of the design process, and takes into
+account a variety of realistic constraints, such as manufacturability and
+sustainability; economic factors; and environmental, safety, and
+reliability issues. Preparation and presentation of final oral and written
+reports are required. The design project may be a team effort and may be
+defined in conjunction with industry. Three three-hour design studios per
+week.
+Prerequisite: MENG 4115.

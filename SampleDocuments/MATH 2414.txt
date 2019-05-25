@@ -1,0 +1,6 @@
+MATH 2414 - Calculus II [TCCN: MATH 2414]
+A study of differentiation and integration of transcendental functions,
+polar coordinates, techniques of integration, sequences, series,
+indeterminate forms, improper integrals.
+Prerequisite: MATH 2413. Corequisite: Mathematics majors must
+concurrently take MATH 2114.

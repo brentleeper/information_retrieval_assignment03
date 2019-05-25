@@ -1,0 +1,6 @@
+MENG 5328 - Finite Element Analysis
+The mathematical principles of the finite element method applied to the
+solution of field problems in mechanical engineering. Solutions
+implemented using current commercial computer application codes.
+Three hours of lecture per week with integrated computer lab exercises.
+Prerequisite: MENG 3306, MENG 3316, MATH 3203 or equivalents.

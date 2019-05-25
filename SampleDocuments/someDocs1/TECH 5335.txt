@@ -1,0 +1,5 @@
+TECH 5335 - Lean Management
+Overview of how the lean production system can be implemented into
+an organization or company to improve profitability by reducing waste.
+Key concepts such as visual management, Five S, TPM, Kaizen, kanban,
+jidoka, hoshin planning, and PDCA will be covered.

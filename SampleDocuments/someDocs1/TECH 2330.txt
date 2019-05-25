@@ -1,0 +1,5 @@
+TECH 2330 - Information Technology and Communications
+An investigation of the concepts behind modern telecommunications
+systems. Students will explore the means by which systems are
+interconnected. Information will be provided regarding emerging
+developments in telecommunications hardware and software.

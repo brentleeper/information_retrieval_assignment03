@@ -1,0 +1,13 @@
+PHAR 7125 - Principles of Drug Design
+This course provides basic understanding to principles of drug discovery,
+design and development. The topics covered include choosing a disease,
+identifying drug targets, establishing testing procedures, finding a lead
+compound, lead optimization, performing the preclinical and clinical
+trials, and introducing new drugs to the market. The course will have
+more emphasis on the methods used to design a lead compound, such as
+ligand/structure-based drug design methods. It will also explain the
+approaches used in improving the pharmacodynamic and
+pharmacokinetic properties of lead compounds. Recent advances in drug
+design such as the use of molecular modeling software tools will also be
+presented.
+Prerequisite: CHEM 3342 or PHAR 7602.

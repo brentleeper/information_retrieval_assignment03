@@ -1,0 +1,7 @@
+MENG 5324 - Engineering Project Management
+Project planning; task definition; work breakdown structure; task
+sequencing, Gantt charts; cost analysis; resource allocation; project
+tracking; completion projections. Use of commercial project
+management computer codes. Three hours of lecture per week with
+integrated computer assignments.
+Prerequisite: Graduate standing in Engineering and CI.

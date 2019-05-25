@@ -1,0 +1,7 @@
+MENG 4330 - Process Control & Automation
+The use of controls in the process industry and in automation;
+measurement of variables, controller types, final elements, application of
+controllers, application of programmable logic controllers, ladder logic,
+general instrumentation design and practice.
+Prerequisite: MENG 4312 or instructor approved Automatic Controls
+course.

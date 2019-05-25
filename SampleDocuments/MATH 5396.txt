@@ -1,0 +1,3 @@
+MATH 5396 - Thesis
+Student research that culminates in the completion of a formal thesis.
+Prerequisite: MATH 5395 and appointment of a thesis advisor.

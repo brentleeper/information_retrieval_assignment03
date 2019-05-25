@@ -1,0 +1,6 @@
+PHYS 3315 - The Physics of Black Holes: An Introduction to
+General Relativity
+This course introduces the student to Einstein's special and general theory
+of relativity. These ideas are then used to explore the physics of black
+holes.
+Prerequisite: PHYS 2326.

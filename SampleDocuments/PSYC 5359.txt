@@ -1,0 +1,6 @@
+PSYC 5359 - Flexible Neuropsychological Battery
+Intended to develop entry-level testing skills for specific cognitive
+domains, including attention and concentration, verbal and nonverbal
+memory, language, motor performance, abstract thinking, reasoning,
+visual/spatial ability, and executive function.
+Prerequisite: PSYC 5366.

@@ -1,0 +1,7 @@
+PHYS 2126 - University Physics II Laboratory [TCCN:
+PHYS 2126]
+Continuation of PHYS 2125. Basic experiments involving electricity,
+magnetism, sound, and light are carried out. Students may not receive
+credit for both PHYS 1102 and PHYS 2126. This course satisfies 1 hour
+of the STEM core requirements.
+Prerequisite: PHYS 2125. Corequisite: PHYS 2326.

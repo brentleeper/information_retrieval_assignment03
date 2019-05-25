@@ -1,0 +1,5 @@
+POLS 3375 - European Political Systems
+Description and analysis of the major political systems in Europe.
+Emphasis is placed on the political systems of Great Britain, France, and
+Germany.
+Prerequisite: POLS 2305 and 2306.

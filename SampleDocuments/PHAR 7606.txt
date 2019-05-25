@@ -1,0 +1,7 @@
+PHAR 7606 - Integrated Pharmacy 6
+This course introduces the student to the cardiovascular system. It will
+cover the pathophysiology, biochemistry, medicinal chemistry,
+pharmacology, and pharmacotherapy involved in hyperlipidemia,
+hypertension, acute coronary syndrome, heart failure, arrhythmias, and
+infectious disease related to the cardiovascular system.
+Prerequisite: PHAR 7605, PHAR 7245. Corequisite: PHAR 7246.

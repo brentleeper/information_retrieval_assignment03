@@ -1,0 +1,6 @@
+PHAR 7603 - Integrated Pharmacy 3
+This course introduces basic concepts of pharmacist's role in patient selfcare
+related to smoking cessation, insomnia, gastrointestinal disorders,
+contraceptives, vulvovaginal candidiasis, and allergic reactions.
+Prerequisite: PHAR 7602, PHAR 7242, PHAR 7161. Corequisite:
+PHAR 7243, PHAR 7162 or PHAR 7163 or PHAR 7164.

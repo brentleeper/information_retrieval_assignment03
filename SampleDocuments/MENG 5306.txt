@@ -1,0 +1,5 @@
+MENG 5306 - Intermediate Solid Mechanics
+Concepts from the theory of elasticity and topics from advanced
+mechanics of materials, including exact solutions for bending and
+torsion, axisymmetrically loaded members, and thin plates.
+Prerequisite: MENG 3306 or equivalent.

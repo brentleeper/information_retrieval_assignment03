@@ -1,0 +1,6 @@
+MANA 3305 - Operations Management
+Management of the production function in business firms with special
+attention given to production, transportation, inventory, quality, and cost
+control.
+Prerequisite: TECH 2323; and MATH 1342; or completed or
+concurrently enrolled in TECH 4310.

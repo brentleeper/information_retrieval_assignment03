@@ -1,0 +1,7 @@
+MENG 2201 - Mechanical Engineering II
+An introduction to computer based problem solving in mechanical
+engineering. Excel, Mathcad and Matlab software tools are used for data
+analysis, equation solving, plotting and graphing, matrix operations, and
+an introduction to object oriented programming. One hour of lecture and
+three hours of laboratory per week.
+Prerequisite: MATH 2413.

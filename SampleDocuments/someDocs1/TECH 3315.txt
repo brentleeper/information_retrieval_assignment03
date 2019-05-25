@@ -1,0 +1,4 @@
+TECH 3315 - Visual Communication Technology
+An overview of blueprint reading, computer aided design, and solid
+modeling with an emphasis in managing visual and graphics
+communications within an industrial facility.

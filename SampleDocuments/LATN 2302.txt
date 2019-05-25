@@ -1,0 +1,5 @@
+LATN 2302 - Intermediate Latin II [TCCN: LATI 2312]
+An intermediate reading course in Latin, focused on Roman prose.
+Designed to strengthen students' grammar, vocabulary, and ability in
+reading and translation.
+Prerequisite: LATN 2301 or CI.

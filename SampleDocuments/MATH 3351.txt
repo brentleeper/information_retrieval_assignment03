@@ -1,0 +1,8 @@
+MATH 3351 - Probability and Statistics for Engineers and
+Scientists
+Fundamentals of probability and statistics with relevant engineering and
+science applications. Discrete and continuous random variables,
+statistical inference, parameter estimation, regression, experimental
+design, and model verification.
+Prerequisite: MATH 2414. Students may not receive credit for both
+MATH 3351 and MATH 4350.

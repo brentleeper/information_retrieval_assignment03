@@ -1,0 +1,5 @@
+KINE 3331 - Human Motor Control and Learning
+Study of principles, theories, and processes involved in learning motor
+skills and the control of movement. Application is made to sport,
+ergonomics and rehabilitation.
+Corequisite: KINE 3132.

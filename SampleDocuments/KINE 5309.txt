@@ -1,0 +1,3 @@
+KINE 5309 - Advanced Motor Control
+An in-depth study of central and peripheral neural mechanisms involved
+in implementing physical and perceptual skills.

@@ -1,0 +1,4 @@
+MATH 4336 - Abstract Algebra II
+A continuation of MATH 3336 focusing on rings, fields, and vector
+spaces.
+Prerequisite: MATH 3336.

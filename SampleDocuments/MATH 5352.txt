@@ -1,0 +1,5 @@
+MATH 5352 - Mathematical Statistics
+Study of the mathematical basis of statistical analysis with emphasis
+given to sampling distributions, testing hypotheses, interval estimation,
+and multivariate analysis.
+Prerequisite: MATH 5351.

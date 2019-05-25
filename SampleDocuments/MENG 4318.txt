@@ -1,0 +1,7 @@
+MENG 4318 - Heating, Ventilation, and Air Conditioning
+Analysis and design necessary to plan and specify equipment for heating,
+refrigeration, and air conditioning systems; heat transfer analysis of
+structures and equipment, psychometric analysis, thermodynamic and
+economic analysis. Three hours of lecture per week with integral
+laboratory emphasizing design.
+Prerequisite: MENG 3304 and MENG 3316.

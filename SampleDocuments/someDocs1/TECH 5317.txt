@@ -1,0 +1,5 @@
+TECH 5317 - Computer Integrated Manufacturing
+A study of the application of computer-aided-design, computer-aidedmanufacturing,
+computer numerical control, robotics, programmable
+electronic controllers, and communication networks to achieve
+automated manufacturing.

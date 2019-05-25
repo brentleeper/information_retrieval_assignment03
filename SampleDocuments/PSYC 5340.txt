@@ -1,0 +1,4 @@
+PSYC 5340 - Advanced Psychological Statistics and Design
+Includes aspects of complex experimental designs, statistical hypothesis
+testing, decision theory, multiple regression analysis, ANOVA,
+distribution-free techniques, and factor analysis.

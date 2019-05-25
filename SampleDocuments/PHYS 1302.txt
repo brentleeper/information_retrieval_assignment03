@@ -1,0 +1,6 @@
+PHYS 1302 - College Physics II [TCCN: PHYS 1302]
+Continuation of PHYS 1301. A study of the principles of electricity,
+magnetism, light, and atomic and nuclear physics. Students may not
+receive credit for both PHYS 1302 and PHYS 2326. Satisfies 3 hours of
+the STEM or LPS component of the core.
+Prerequisite: PHYS 1301.

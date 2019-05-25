@@ -1,0 +1,6 @@
+PHYS 4340 - Modern Physics
+An introduction to relativity and quantum theory. Einstein's theory of
+special relativity, the historical development of quantum theory leading
+to the Schrodinger equation, and applications of the Schrodinger
+equation will be studied.
+Prerequisite: PHYS 2326/2126 and MATH 3404 or MATH 3305.

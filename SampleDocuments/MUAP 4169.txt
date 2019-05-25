@@ -1,0 +1,4 @@
+MUAP 4169 - Piano
+Applied instruction in piano, including individual lessons and a weekly
+performance class.
+Prerequisite: MUAP 3169.

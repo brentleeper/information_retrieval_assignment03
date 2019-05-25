@@ -1,0 +1,7 @@
+MANA 4345 - E-Commerce
+The effective use of e-commerce applications is becoming increasingly
+important to sustain competitive advantage in today's global
+environment. The course topics include e-commerce business models,
+internet consumer retailing, key e-commerce applications, support
+services strategy and implementation and website development.
+Prerequisite: TECH 2323.

@@ -1,0 +1,7 @@
+MATH 2312 - Precalculus
+A survey of college algebra, trigonometry and analytical geometry to
+prepare students for calculus. Topics include algebraic functions and
+their graphs, exponential and logarithmic functions, trigonometric
+functions and identities, two and three dimensional analytical geometry.
+Credit not given for both MATH 2312 and MATH 1316.
+Prerequisite: Appropriate score on ACT, SAT or TSI.

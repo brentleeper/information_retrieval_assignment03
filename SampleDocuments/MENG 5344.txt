@@ -1,0 +1,6 @@
+MENG 5344 - System Dynamics
+Mathematical modeling of dynamic mechanical engineering systems.
+Analytic and numerical simulation. Effects of physical characteristics of
+system elements on system design and dynamic behavior.
+Prerequisite: MENG 3306, MENG 3310 and MENG 3301 or
+equivalents.

@@ -1,0 +1,5 @@
+MATH 2114 - Calculus II Computer Lab
+Calculus II concepts illustrated and expanded through the use of a
+computer algebra system. Graphing and symbolic and numerical
+computations will be emphasized.
+Corequisite: MATH 2414.

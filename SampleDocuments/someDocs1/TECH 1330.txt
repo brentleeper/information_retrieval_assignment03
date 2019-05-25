@@ -1,0 +1,5 @@
+TECH 1330 - Fundamentals of Electronics
+An introduction to the basic fundamentals of electronics. Students are
+provided with an orientation to basic AC and DC concepts, resistance,
+capacitance, inductance, impedance, power, digital gating circuits, etc.
+Laboratory demonstrations reinforce conceptual discussions.

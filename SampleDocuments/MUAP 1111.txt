@@ -1,0 +1,4 @@
+MUAP 1111 - Harmony and Keyboard I
+Beginning piano study for music majors, incorporating keyboard
+harmony assignments on level with MUSI 1311.
+Corequisite: MUSI 1311 and MUSI 1116.

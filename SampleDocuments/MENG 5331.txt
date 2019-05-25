@@ -1,0 +1,7 @@
+MENG 5331 - Constraints Management
+An introduction to the Theory of Constraints and its methodology for
+finding factors that block improvement in simple and complex systems,
+for identifying effective breakthrough solutions, and for developing
+improvements in manufacturing systems and engineering projects.
+Three hours of lecture per week.
+Prerequisite: CI.

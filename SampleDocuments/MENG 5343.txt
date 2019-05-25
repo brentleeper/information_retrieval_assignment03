@@ -1,0 +1,4 @@
+MENG 5343 - Intermediate Heat Transfer
+Multidimensional steady and transient heat conduction; forced and
+natural convection; and radiation exchange.
+Prerequisite: MENG 3316 or equivalent.

@@ -1,0 +1,6 @@
+MATH 1314 - College Algebra [TCCN: MATH 1314]
+Study of linear and quadratic equations and inequalities, logarithmic and
+exponential functions, graphs, systems of equations, matrices, partial
+fractions, binomial theorem, theory of equations.
+Prerequisite: Appropriate score on ACT, SAT or TSI. Credit not given
+for both MATH 1314 and MATH 1324 or MATH 1332.

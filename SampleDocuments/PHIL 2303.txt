@@ -1,0 +1,3 @@
+PHIL 2303 - Introduction to Logic
+An introduction to informal, formal, and inductive logic including
+fallacies, propositional logic, and scientific arguments.

@@ -1,0 +1,8 @@
+PHAR 7241 - Pharmacy Practice Skills Laboratory – 1
+This laboratory course focuses on the application of skills and resources
+needed for pharmacists to guide patients’ self-care health and wellness
+behaviors. Topics include patient interviewing, health screening and
+education about the appropriate use of vitamins, minerals, and herbal
+supplements and the use of in-home and point-of-care devices in
+maintaining optimal health.
+Corequisite: PHAR 7601, PHAR 7161.

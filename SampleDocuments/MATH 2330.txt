@@ -1,0 +1,6 @@
+MATH 2330 - Discrete Structures
+Study of mathematical logic, sets, combinations, relations, functions,
+graphs and trees, Boolean algebra, and algebraic structures.
+Prerequisite: MATH 1325 or MATH 2413 or equivalent and one highlevel
+computer language. Students may not receive credit for both
+MATH 2330 and MATH 3425.

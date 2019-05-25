@@ -1,0 +1,6 @@
+MENG 5333 - Composite Materials
+Explores fundamental relationships between both the mechanical and
+hygrothermal behavior and the composition of multiphase media with an
+emphasis on fiber-reinforced polymers. Topics include using analytical
+tools to calculate strength, behavior, and failure of lamina.
+Prerequisite: MENG 3306 or equivalent.

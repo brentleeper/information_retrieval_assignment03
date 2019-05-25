@@ -1,0 +1,6 @@
+MATH 5333 - Topics in Algebra
+Topics may include group actions, p-groups, Galois theory, polynomial
+rings, field theory, vector spaces, modules over a PID, algebraic
+geometry, homological algebra, representation theory. Course may be
+repeated when content changes.
+Prerequisite: MATH 5331.

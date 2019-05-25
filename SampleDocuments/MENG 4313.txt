@@ -1,0 +1,6 @@
+MENG 4313 - Thermal/Fluid Systems Design
+Characterization, component selection, and integration of thermal
+systems and components including engines, turbines, compressors,
+pumps, and heat exchangers. Two hours of lecture and one three-hour
+lab per week.
+Prerequisite: MENG 3211, MENG 3304 and MENG 3316.

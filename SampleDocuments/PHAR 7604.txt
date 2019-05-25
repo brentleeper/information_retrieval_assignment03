@@ -1,0 +1,7 @@
+PHAR 7604 - Integrated Pharmacy 4
+This course introduces basic concepts of self-care related to appropriate
+identification of medications/treatments for diseases of the skin, ears,
+eyes and simple dental conditions commonly seen by an
+outpatient/community pharmacist.
+Prerequisite: PHAR 7603, PHAR 7243, PHAR 7161. Corequisite:
+PHAR 7244, PHAR 7162 or PHAR 7163 or PHAR 7164.

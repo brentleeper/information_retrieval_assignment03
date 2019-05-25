@@ -1,0 +1,6 @@
+MANA 5340 - Applications for E-Commerce
+Study of advanced applications of management information systems
+(MIS) in business. Topics include E-Business applications such as SAP
+for enterprise resource planning and E-Commerce topics such as web
+design/development and web business models.
+COURSES| 65

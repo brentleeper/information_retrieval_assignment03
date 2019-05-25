@@ -1,0 +1,3 @@
+HRD 4323 - Developing Web-Based Instruction
+A study of concepts and practices relating to the development,
+implementation and teaching of Internet courses.

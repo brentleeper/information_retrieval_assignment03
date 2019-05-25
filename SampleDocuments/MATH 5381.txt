@@ -1,0 +1,5 @@
+MATH 5381 - Applied Mathematics I
+Ordinary differential equations, partial differential equations, and
+dynamical systems, complex variables, spectral theory, transformations
+and modeling.
+Prerequisite: MATH 3203 and MATH 3305 or Consent of Instructor.

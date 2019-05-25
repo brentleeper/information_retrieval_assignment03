@@ -1,0 +1,6 @@
+MENG 3305 - Transport Processes
+Basic study of momentum, energy, and mass transport, dimensional
+analysis, includes laminar and turbulent fluid flow, conduction heat
+transfer, convection heat transfer, and radiation heat transfer. Three hours
+of lecture per week. (Not for mechanical engineering majors.)
+Prerequisite: MENG 3301.

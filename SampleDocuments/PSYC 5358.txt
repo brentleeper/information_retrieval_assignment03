@@ -1,0 +1,5 @@
+PSYC 5358 - Neuropsychological Assessment: Fixed Battery
+Instruction in basic skills in neuropsychological assessment and brain
+functioning with emphasis on administration, scoring, and interpretation
+of current fixed-battery instruments.
+Prerequisite: PSYC 5366.

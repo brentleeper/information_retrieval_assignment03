@@ -1,0 +1,4 @@
+NURS 5324 - Health Care Informatics
+This course prepares the student to utilize informatics and health care
+technologies in the management of individuals, groups and organizations
+for the improvement of patient outcomes.

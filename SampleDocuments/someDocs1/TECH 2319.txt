@@ -1,0 +1,5 @@
+TECH 2319 - Programmable Logic Controllers
+Introduction to programmable logic controller logic circuits, inputs and
+outputs, power supplies, data sheets, safety programming, types of
+processors and memory organization, PLC architecture, ladder logic, and
+task oriented programming methods.

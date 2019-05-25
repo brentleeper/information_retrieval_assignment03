@@ -1,0 +1,6 @@
+HRD 6355 - Advanced Statistics in Research
+A study of advanced statistical methods and tools for HRD research
+including research designs/methods, data collection, statistical analysis
+(ANOVA, MANOVA, Regressions, Factor Analysis, SEM etc. SPSSAMOS).
+Learning includes a combination of lecture, writing, labs and
+presentation.

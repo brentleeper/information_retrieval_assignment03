@@ -1,0 +1,7 @@
+MUSI 2311 - Music Theory III [TCCN: MUSI 2311]
+Advanced study of melody, rhythm, diatonic and chromatic harmony in
+four voices, incorporating complex instrumental textures. Covers voice
+leading, advanced harmonic progression, basic forms, and advanced
+modulation.
+Prerequisite: Grade of C or better in MUSI 1312 and MUSI 1117.
+Corequisite: MUSI 2116 and MUAP 2111.

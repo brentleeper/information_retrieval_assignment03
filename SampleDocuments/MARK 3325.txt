@@ -1,0 +1,6 @@
+MARK 3325 - Retailing in the 21st Century
+Fundamental operations of retail institutions. Consideration is given to
+store location, merchandising, sales promotion, inventory control, store
+organization, and the use of enterprise resource planning systems such as
+SAP to integrate activities.
+Prerequisite: MARK 3311.

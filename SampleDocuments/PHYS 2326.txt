@@ -1,0 +1,6 @@
+PHYS 2326 - University Physics II [TCCN: PHYS 2326]
+Continuation of PHYS 2325. A calculus-based study of the principles of
+electricity, magnetism, and light. Students may not receive credit for both
+PHYS 1302 and PHYS 2326. This course satisfies 3 hours of either the
+STEM or LPS core requirements.
+Prerequisite: PHYS 2325 and MATH 2414.

@@ -1,0 +1,6 @@
+MANA 4315 - Managerial Decision Making
+This course develops integrative decision-making skills in business.
+Topics include problem definition, generation of alternatives, data
+collection, quantitative analysis, and qualitative analysis. Course requires
+familiarity with Microsoft Office Suite and SAP.
+Prerequisite: MATH 1342 and TECH 2323.

@@ -1,0 +1,5 @@
+MATH 5343 - Topics in Real Analysis
+Topics may include general topology, Banach spaces, generalized
+measure and integration, or related topics. Course may be repeated when
+content changes.
+Prerequisite: MATH 5341.

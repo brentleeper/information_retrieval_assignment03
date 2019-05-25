@@ -1,0 +1,6 @@
+MENG 5307 - Solar Engineering
+Introduction to solar energy and solar radiation. Components of solar
+systems and methods of solar collection. Applications of solar energy to
+meet energy needs.
+Prerequisite: MENG 3304, MENG 3316, MENG 3310 or equivalent and
+graduate standing.

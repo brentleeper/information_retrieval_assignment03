@@ -1,0 +1,5 @@
+MATH 3315 - Linear Algebra and Matrix Theory
+Study of finite dimensional vector spaces and linear transformations.
+Emphasis is given to the basic theory of matrices. Co- or
+Prerequisite: MATH 3425. Students may not receive credit for both
+MATH 3315 and MATH 3203.

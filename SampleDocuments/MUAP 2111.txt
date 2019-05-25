@@ -1,0 +1,4 @@
+MUAP 2111 - Harmony and Keyboard III
+Intermediate-level piano study for music majors, incorporating keyboard
+harmony assignments on level with MUSI 2311.
+Corequisite: MUSI 2311 and MUSI 2116.

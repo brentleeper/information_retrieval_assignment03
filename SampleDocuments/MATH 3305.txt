@@ -1,0 +1,4 @@
+MATH 3305 - Ordinary Differential Equations
+Study of ordinary differential equations. Emphasis is given to equations
+of the first order, linear equations, and solution by series.
+Prerequisite: MATH 2414.

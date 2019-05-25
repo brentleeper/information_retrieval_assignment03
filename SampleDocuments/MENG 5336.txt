@@ -1,0 +1,6 @@
+MENG 5336 - Intermediate Fluid Mechanics
+Differential equations of fluid flow, mathematical modeling of
+Newtonian and non-Newtonian fluids, boundary layer theory, numerical
+modeling of turbulent flow, and an introduction to compressible flow.
+Prerequisite: MENG 3310 or equivalent undergraduate fluid mechanics
+course.

@@ -1,0 +1,6 @@
+KINE 3334 - Biomechanics and Anatomical Kinesiology
+Analysis of human movement, applying principles from Newtonian
+mechanics and study of structure and function of major joints and muscle
+groups.
+Prerequisite: BIOL 2301, BIOL 2101, BIOL 2302 and BIOL 2102.
+Corequisite: KINE 3135.

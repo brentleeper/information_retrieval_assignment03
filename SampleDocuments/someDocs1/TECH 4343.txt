@@ -1,0 +1,9 @@
+TECH 4343 - Advanced Manufacturing Processes
+A survey of the latest manufacturing processes that are used in order to
+produce products that cannot be produced with conventional
+manufacturing processes. Processes covered will include non-traditional 
+COURSES| 103
+machining methods, abrasive machining, advanced casting methods,
+specialized welding methods, and other high-end processes used in
+manufacturing industries.
+Prerequisite: TECH 3311 or equivalent.

@@ -1,0 +1,4 @@
+MATH 3425 - Foundations of Mathematics
+Study of elementary logic, intermediate set theory, relations, functions
+and countable number systems.
+Prerequisite: MATH 2414.

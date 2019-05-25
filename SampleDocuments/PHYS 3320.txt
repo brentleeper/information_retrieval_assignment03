@@ -1,0 +1,5 @@
+PHYS 3320 - Computational Physics
+A study of methods of solving complex physical problems using
+computer algorithms. It will focus on the techniques as well as examples
+from physics that lend themselves to numerical calculations.
+Prerequisite: PHYS 2326/2126 and MATH 3404 or MATH 3305.

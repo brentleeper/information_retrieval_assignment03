@@ -1,0 +1,4 @@
+SPCM 4326 - Public Speaking
+A course in the composition and delivery of speeches for various
+occasions, in audience analysis, and in speech criticism.
+Prerequisite: SPCM 1315.

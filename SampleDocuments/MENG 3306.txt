@@ -1,0 +1,6 @@
+MENG 3306 - Mechanics of Materials
+Stress and strain; uniaxially loaded members; centroids and area
+moments of inertia; normal and shear stresses; beam deflections;
+buckling of columns; pressure vessels; combined stresses; failure
+criteria. Three hours of lecture per week.
+Prerequisite: ENGR 2301.

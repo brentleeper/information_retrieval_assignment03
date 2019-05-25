@@ -1,0 +1,6 @@
+MANA 4350 - Database Information Systems
+The basics of constructing, managing, and deploying relational database
+and ERP systems such as SAP in support of electronic-based commerce
+activities. Topics include the requirements of defining and using data in
+relational databases, and incorporating the collection, management, and
+use of data as an integral part of successful e-business endeavors.

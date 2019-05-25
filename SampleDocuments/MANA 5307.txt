@@ -1,0 +1,6 @@
+MANA 5307 - Service Operations Management
+This course focuses on the management of service operations, using both
+qualitative and quantitative techniques that can help service firms
+improve their operations. Topics will cover key concepts such as waiting
+line management, facility location, quality and productivity
+improvement, and other relevant topics.

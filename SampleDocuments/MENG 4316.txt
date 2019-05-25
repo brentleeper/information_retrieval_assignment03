@@ -1,0 +1,6 @@
+MENG 4316 - Introduction to Building Energy Simulation
+The course covers the fundamentals of building energy modeling.
+Examples of common analytical models for energy consumption in
+buildings are introduced. Software such as EnergyPlus, BEopt, and
+OpenStudio in energy simulation examples.
+Prerequisite: MENG 3301. Corequisite: MENG 3316.

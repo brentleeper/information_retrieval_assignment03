@@ -1,0 +1,6 @@
+PHYS 1410 - Elementary Physics
+This course is a comprehensive examination of motion, forces, energy,
+circuits and optics that will develop the participants' conceptual
+understanding of physics through the process of the scientific method.
+The course will consist of three hours of lecture and three hours of
+laboratory each week.

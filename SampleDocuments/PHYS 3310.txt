@@ -1,0 +1,5 @@
+PHYS 3310 - Classical Mechanics
+A study of Newton's equations of motion, simple harmonic motion,
+central forces, systems of particles and collisions, nonlinear dynamics
+and chaos, and Lagrangian and Hamiltonian formalisms.
+Prerequisite: PHYS 2325/2125 and MATH 3404.

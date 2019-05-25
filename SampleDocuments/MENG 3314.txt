@@ -1,0 +1,9 @@
+MENG 3314 - Design Methodology in Engineering
+An overview of the design activity in engineering. Topics include the
+product design process, project planning, quality function deployment,
+design specification, concept generation and selection, system and
+subsystem design. Also, an introduction to engineering economics and
+its application to the design process. Design team projects. Three hours
+of lecture per week.
+Prerequisite: Prerequisites or co-requisites: MENG 3304, MENG 3309,
+MENG 3316.

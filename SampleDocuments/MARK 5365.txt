@@ -1,0 +1,5 @@
+MARK 5365 - Retail Management
+Conceptual foundations of retail management and retail consulting.
+Consideration is given to retail best practices including customer service,
+visual merchandising, category management, and SAP Retail.
+Prerequisite: MARK 5300 or equivalent.

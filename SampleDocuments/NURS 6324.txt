@@ -1,0 +1,6 @@
+NURS 6324 - Advanced Multivariate Statistics
+Students will study advanced multivariate techniques in health care
+research and apply aspects of complex research designs, including
+multivariate model testing, decision theory, and advanced statistical
+techniques.
+Prerequisite: NURS 6322.

@@ -1,0 +1,6 @@
+PHYS 1301 - College Physics I [TCCN: PHYS 1301]
+A general study of the fundamental principles of mechanics, heat, and
+sound. Students may not receive credit for both PHYS 1301 and PHYS
+2325. Satisfies 3 hours of the STEM or LPS component of the core.
+Prerequisite: MATH 1316 or MATH 2312. Physics in high school is
+strongly recommended.

@@ -1,0 +1,3 @@
+MENG 5396 - Thesis II
+Completion and defense of an acceptable master's thesis.
+Prerequisite: MENG 5395.

@@ -1,0 +1,6 @@
+MENG 3304 - Thermodynamics II
+Power and refrigeration cycles, chemical reactions, combustion, gas
+mixtures, psychometrics, availability analysis. Three hours of lecture per
+week.
+COURSES| 71
+Prerequisite: MENG 3301, MATH 3305.

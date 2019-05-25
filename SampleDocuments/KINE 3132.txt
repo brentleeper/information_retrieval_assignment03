@@ -1,0 +1,5 @@
+KINE 3132 - Human Motor Control and Learning
+Laboratory
+Laboratory and field analyses related to learning and control of motor
+skills.
+Corequisite: KINE 3331.

@@ -1,0 +1,8 @@
+MENG 4326 - Finite Element Methods in Mechanical
+Engineering
+An introduction to the finite element method in mechanical engineering.
+Emphasizes linear stress and strain analysis, but includes other field
+problems. Utilizes commercial computer codes to solve stress analysis,
+heat transfer, and other engineering related problems. Three hours of
+lecture per week with integrated lab.
+Prerequisite: MATH 3203, MENG 3306, and MENG 3316.

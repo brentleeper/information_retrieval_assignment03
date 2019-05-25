@@ -1,0 +1,4 @@
+MARK 4365 - Sales Management
+Decision making for sales executives. Organization and administration
+of sales departments with special attention to sales forecasting.
+Prerequisite: MARK 3311.

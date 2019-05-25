@@ -1,0 +1,8 @@
+TECH 5310 - Six Sigma Quality
+A discussion, analysis and application of quality control concepts to
+include both attribute and variable quality control techniques. Advanced
+graphical problem solving techniques in Six Sigma will be studied.
+Attribute analysis will be emphasized as it applies to MIL-STD-105D
+and variable analysis as it applies to MIL-STD-414. Effective utilization
+of microcomputers will be used to develop spreadsheets, graphs, charts,
+and run statistical quality control microcomputer programs.

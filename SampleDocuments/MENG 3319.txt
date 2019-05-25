@@ -1,0 +1,9 @@
+MENG 3319 - Materials Science and Manufacturing
+Introduction to materials science including the structure of metals and
+polymers, the testing of mechanical properties of materials, the
+relationship between material properties, structure and processing
+techniques, and the capabilities and limitations of modern manufacturing
+methods. Two one-hour lectures and one three-hour lab per week.
+Prerequisite: CHEM 1311 and CHEM 1111 or equivalent, ENGR 1201
+or completion of a technical writing course, MENG 1201 or completion
+of a Computer Aided Drafting course.

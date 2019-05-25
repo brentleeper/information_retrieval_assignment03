@@ -1,0 +1,8 @@
+MENG 1201 - Mechanical Engineering I
+An introduction to CAD-based engineering design graphics, including
+spatial visualization, projection theory and parametric, feature-based,
+solid modeling techniques. Both skill development and project oriented
+laboratory sessions. Team based semester-long mechanical engineering
+design project. One hour of lecture and three hours of laboratory per
+week.
+Prerequisite: ENGR 1201.

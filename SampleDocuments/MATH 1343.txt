@@ -1,0 +1,6 @@
+MATH 1343 - Statistics II
+A second course in statistics covering a variety of topics in statistical
+inference, including: inference of means, proportions, regression, and
+both one- and two-way analysis of variance. Additional topics may be
+included.
+Prerequisite: A grade of C or better in MATH 1342.

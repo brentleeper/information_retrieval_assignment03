@@ -1,0 +1,7 @@
+MENG 4325 - Digital Control of Mechanical Systems
+Computer control of machines and processes. Topics include digital
+control theory, signal processing strategies, analog-to-digital and digitalto-analog
+(A/D-D/A) conversion, dedicated microprocessor control,
+sensor and actuator selection. Two hours of lecture and one three-hour
+laboratory per week.
+Prerequisite: Concurrent enrollment in or completion of MENG 4312.

@@ -1,0 +1,6 @@
+MANA 5305 - Decision Making in Operations Management
+Analysis of the operations management function from a manager's
+perspective. Quantitative techniques related to decision making such as
+linear programming, statistics and selected operational models are
+applied to operations management problems in both the service and
+manufacturing industries.

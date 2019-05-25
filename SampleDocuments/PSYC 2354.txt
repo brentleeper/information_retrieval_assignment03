@@ -1,0 +1,6 @@
+PSYC 2354 - Statistics and Laboratory
+An introduction to descriptive and inferential statistical methods used in
+psychological research. Emphasis will be on hypothesis testing with ttests,
+analysis of variance, correlation, and selected nonparametric
+techniques. Application of computers and statistical software to
+psyschological research.

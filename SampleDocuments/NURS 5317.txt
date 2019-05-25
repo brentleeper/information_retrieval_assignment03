@@ -1,0 +1,5 @@
+NURS 5317 - Graduate Statistics for Health Providers
+This course covers descriptive and inferential statistics as applied to
+health related fields. Topics include basic and intermediate concepts for
+testing statistical hypotheses, construction and interpretation of
+confidence intervals, and applying selected nonparametric techniques.

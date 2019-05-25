@@ -1,0 +1,4 @@
+MENG 4328 - Fundamentals of Aerospace Sciences
+An introduction to fundamental concepts of aerospace engineering.
+Three hours of lecture per week.
+Prerequisite: MENG 3304 and MENG 3310.

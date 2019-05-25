@@ -1,0 +1,6 @@
+NURS 6322 - Advanced Statistics
+Students will study advanced statistical techniques in health care
+research together with discussions on the corresponding research
+designs. Topics include various types of general linear modeling,
+multiple regression, as well as non-parametric tests.
+Prerequisite: NURS 6320.

@@ -1,0 +1,6 @@
+MENG 3310 - Fluid Mechanics
+Basic concepts of a fluid, and the fundamentals and applications of ideal
+and real fluid flow. Topics include fluid statics, conservation principles,
+the Bernoulli equation, fluid flow in pipes, open channel flow, and fluid
+flow measurement devices. Three hours of lecture per week.
+Prerequisite: ENGR 2302, MATH 3404, MATH 3305.

@@ -1,0 +1,9 @@
+PHAR 7242 - Pharmacy Practice Skills Laboratory – 2
+This laboratory course focuses on the application of skills and resources
+needed for pharmacists to guide patients’ self-care of pain and
+inflammation, fever and headache, and cough and cold. Topics include
+patient assessment, therapeutic plan formulation and counseling;
+evaluation of the clinical literature; pharmaceutical calculations; and
+preparation of liquid dosage forms.
+Prerequisite: PHAR 7601, PHAR 7241, PHAR 7161. Corequisite:
+PHAR 7602, PHAR 7162 or PHAR 7163 or PHAR 7164.

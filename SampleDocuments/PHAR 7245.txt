@@ -1,0 +1,9 @@
+PHAR 7245 - Pharmacy Practice Skills Laboratory – 5
+This laboratory course focuses on the application of skills and resources
+needed for pharmacists to function in a hospital setting to perform sterile
+compounding and to guide patients’ health care, curative, preventive and
+wellness behaviors. Topics include lab assessment of renal function, pH
+and electrolyte balance, epidemiology and pathophysiology of the
+kidney and related diseases, anatomy and physiology of hematopoiesis
+and anemia, coagulation and related diseases.
+Prerequisite: PHAR 7604, PHAR 7244. Corequisite: PHAR 7605.

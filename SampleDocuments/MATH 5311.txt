@@ -1,0 +1,6 @@
+MATH 5311 - Advanced Engineering Mathematics
+Advanced mathematical concepts needed in the study of engineering.
+Topics: Partial differential equations, Fourier analysis, complex analysis
+and optimization.
+Prerequisite: Ordinary Differential Equations (MATH 3305 or
+equivalent) and Linear Algebra (MATH 3203 or equivalent).

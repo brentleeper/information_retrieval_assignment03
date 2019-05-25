@@ -1,0 +1,7 @@
+PADM 5331 - Information Systems in Public Administration
+Studies concepts, structures, and applications relevant to information
+technology and public administration. The focus of the course is on
+integrating material from the technical and managerial fields to improve
+the processing of information for decision-making in public
+administration.
+Prerequisite: Social sciences research methods course.

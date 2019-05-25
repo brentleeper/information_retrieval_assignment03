@@ -1,0 +1,11 @@
+NURS 6303 - Healthcare Informatics
+In-depth exploration of data management systems and skills needed to
+manage patient, systems and research information is the focal point of
+this course. Students will use external evidence (research) and internal
+evidence (practice data) within healthcare databases and clinical
+information systems to determine best practices for achieving optimal
+patient outcomes. The influence of clinical information systems and
+internal evidence, such as costs/budgets, and the selection, design, and
+planning of these systems that will effectively support meaningful use
+and provide data to improve patient care outcomes is discussed.
+Offered: Spring.

@@ -1,0 +1,8 @@
+PHYS 2325 - University Physics I [TCCN: PHYS 2325]
+A general study of the fundamental principles of physics for science,
+computer science, and engineering majors. The principles of mechanics
+and heat are studied using a calculus-based approach. Students may not
+receive credit for both PHYS 1301 and PHYS 2325. This course satisfies
+3 hours of either the STEM or LPS core requirements.
+Prerequisite: MATH 2413. Physics in high school is strongly
+recommended.

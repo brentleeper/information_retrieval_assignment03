@@ -1,0 +1,7 @@
+PHYS 1101 - College Physics I Laboratory [TCCN: PHYS
+1101]
+Basic laboratory experiments involving mechanics and heat are carried
+out by majors other than chemistry, computer science, and
+engineering. Students may not receive credit for both PHYS 1101 and
+PHYS 2125. Satisfies 1 hour of the STEM core requirements.
+Corequisite: PHYS 1301.

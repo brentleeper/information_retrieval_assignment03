@@ -1,0 +1,6 @@
+NURS 6320 - Data Management
+Strategies for management of quantitative and qualitative data are
+analyzed. Data management software packages are utilized for the
+creation and analysis of data files. Primary and secondary data sets for
+research are managed.
+Prerequisite: CI.

@@ -1,0 +1,6 @@
+MATH 3373 - Applied Mathematics I
+This course explores topics in applied mathematics as they pertain to the
+physical sciences. Topics include linear and nonlinear systems, Laplace
+transforms and Fourier series with a focus on theoretical development
+and physical application.
+Prerequisite: MATH 3305, MATH 3203 or MATH 3315, MATH 3425.

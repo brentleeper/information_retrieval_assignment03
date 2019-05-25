@@ -1,0 +1,6 @@
+MUSI 1311 - Music Theory I [TCCN: MUSI 1311]
+An elementary study of melody, rhythm, and diatonic tonal harmony in
+four voices and in simple instrumental textures. Emphasis on rudiments
+of music, voice leading, harmonic progression, and elemental melodic
+forms.
+Corequisite: MUSI 1116 and MUAP 1111.

@@ -1,0 +1,5 @@
+MATH 1316 - Trigonometry [TCCN: MATH 1316]
+A study of trigonometric functions of angles, degree and radian measure,
+circular functions, graphs, identities, inverse trigonometric functions,
+polar coordinates, solution of general triangles, complex numbers.
+Prerequisite: Appropriate score on ACT, SAT or TSI.

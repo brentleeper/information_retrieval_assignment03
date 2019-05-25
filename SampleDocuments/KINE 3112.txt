@@ -1,0 +1,4 @@
+KINE 3112 - Physiology of Exercise Laboratory
+Laboratory assessment of responses to acute and chronic exercise.
+Prerequisite: BIOL 2301, BIOL 2101, BIOL 2302, BIOL 2102, KINE
+3306. Corequisite: KINE 3311.

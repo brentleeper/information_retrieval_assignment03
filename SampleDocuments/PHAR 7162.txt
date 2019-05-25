@@ -1,0 +1,9 @@
+PHAR 7162 - Introductory Pharmacy Practice Experience 2
+This course provides students with practical experience in community
+pharmacy practice, including administering immunizations; accepting
+and interpreting prescription orders; dispensing prescriptions; patient
+interviewing; patient medication records; practice regulations
+concerning the distribution of medications and practice roles; and an
+introduction to the principles of self-care with over-the-counter
+medications and non-pharmacologic treatments.
+Prerequisite: PHAR 7601, PHAR 7241, PHAR 7161.

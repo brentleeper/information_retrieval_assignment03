@@ -1,0 +1,9 @@
+TECH 3343 - Advanced Technologies for Surveyors
+This course covers High Definition Surveying (HDS) which is becoming
+the industry standard for surveying projects and any additional new
+surveying topics. Students will gain experience in using a pulsed laser
+which moves across a target recording an unprecedented number of
+measurements in minutes. In addition, students will learn how to
+manipulate these scanned measurements with application software that
+will allow them to create three dimensional maps of the land to be
+surveyed.

@@ -1,0 +1,5 @@
+PHYS 4326 - Introduction to Quantum Physics
+The topics covered in this course will include state functions, wave
+packets, observables, the Heisenberg uncertainty principle and the
+Schrodinger equation.
+Prerequisite: PHYS 2326 and MATH 3404.

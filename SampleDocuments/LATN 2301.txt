@@ -1,0 +1,5 @@
+LATN 2301 - Intermediate Latin I [TCCN: LATI 2311]
+An intermediate reading course in Latin, focused on Roman prose.
+Designed to strengthen students' grammar, vocabulary, and ability in
+reading and translation.
+Prerequisite: LATN 1302 or CI.

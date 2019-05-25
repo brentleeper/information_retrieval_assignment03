@@ -1,0 +1,6 @@
+MENG 5329 - Advanced Production Engineering
+Analysis and computer simulation of advanced topics in manufacturing.
+Topics include servo positioning systems, dynamics of the metal cutting
+process, machine tool chatter, stress and forces in metal forming and heat
+transfer in welding.
+Prerequisite: MENG 3319 or equivalent.

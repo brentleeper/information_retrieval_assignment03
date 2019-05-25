@@ -1,0 +1,5 @@
+MATH 5341 - Real Analysis
+Topics include set theory, the real number system, Lebesgue measure,
+the Lebesgue integral, differentiation and integration, classical Banach
+spaces.
+Prerequisite: MATH 4341 or equivalent.

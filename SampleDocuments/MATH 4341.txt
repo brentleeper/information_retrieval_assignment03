@@ -1,0 +1,4 @@
+MATH 4341 - Real Analysis II
+Continuation of MATH 3345. Study of metric spaces, sequences, series,
+continuous functions, differentiation and integration.
+Prerequisite: MATH 3345.

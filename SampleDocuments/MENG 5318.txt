@@ -1,0 +1,6 @@
+MENG 5318 - Manufacturing Systems
+A study of modern production practices and manufacturing systems
+including operations and materials planning, inventory control methods,
+production scheduling, layout of manufacturing cells, machine
+monitoring, and automation. Three hours of lecture per week.
+Prerequisite: MENG 3319 or equivalent.

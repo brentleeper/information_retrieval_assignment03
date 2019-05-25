@@ -1,0 +1,4 @@
+MENG 3303 - Dynamics of Machinery
+Analysis of the kinematics and forces in mechanical mechanisms and
+assemblies. Three hours of lecture per week.
+Prerequisite: ENGR 2302.

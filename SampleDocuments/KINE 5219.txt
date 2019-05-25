@@ -1,0 +1,6 @@
+KINE 5219 - Exercise for Special Populations I
+Study of principles of prescribing exercise for individuals with selected
+cardiovascular, pulmonary and metabolic diseases, with overview of
+pathophysiology, medical and surgical management, and physical
+assessment related to these diseases.
+Prerequisite: CEPH 5213/CEPH 5214. Corequisite: KINE 5220.

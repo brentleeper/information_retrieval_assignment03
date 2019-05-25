@@ -1,0 +1,6 @@
+TECH 4317 - Computer Integrated Manufacturing
+Study of the application of computer-aided-design, computer-aidedmanufacturing,
+computer numeric control, robotics, programmable
+electronic controllers, and communication networks to achieve
+automated manufacturing.
+Prerequisite: TECH 2323 or equivalent.

@@ -1,0 +1,5 @@
+MENG 3301 - Thermodynamics I
+Properties; heat and work; first and second laws; thermodynamic
+processes; Carnot heat engines and heat pumps. Three hours of lecture
+per week.
+Prerequisite: PHYS 2325 and 2125.

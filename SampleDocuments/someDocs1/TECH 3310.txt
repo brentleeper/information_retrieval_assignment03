@@ -1,0 +1,6 @@
+TECH 3310 - Total Quality Management
+An analysis and application of total quality management principles to
+include statistical process control, graphical problem solving techniques,
+acceptance sampling standards, and six sigma quality. This is an applied
+computer course.
+Prerequisite: TECH 2323 or equivalent.

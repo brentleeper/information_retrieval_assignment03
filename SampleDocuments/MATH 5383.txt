@@ -1,0 +1,6 @@
+MATH 5383 - Topics in Applied Mathematics
+An exploration of various topics in applied and computational
+mathematics. Materials covered may include mathematical modeling,
+optimization and control theory, game theory, mathematical physics, and
+mathematical biology. Course may be repeated when content changes.
+Prerequisite: MATH 5381.

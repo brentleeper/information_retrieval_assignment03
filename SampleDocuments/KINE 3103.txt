@@ -1,0 +1,5 @@
+KINE 3103 - Clinical Experiences in Athletic Training II
+This is a laboratory based course designed to introduce students to basic
+level clinical skills necessary to complete upper level athletic training
+clinical education requirements of the program.
+Prerequisite: KINE 3102.

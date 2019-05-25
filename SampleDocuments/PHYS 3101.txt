@@ -1,0 +1,4 @@
+PHYS 3101 - Contemporary Physics
+A qualitative introduction to contemporary fields of physics research and
+interest. Oral presentation required.
+Prerequisite: PHYS 1302 or PHYS 2326.

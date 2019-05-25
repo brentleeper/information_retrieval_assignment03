@@ -1,0 +1,6 @@
+PHAR 7508 - Integrated Pharmacy 8
+This course provides further information regarding the principles of
+pathophysiology, medicinal chemistry, clinical pharmacokinetics and
+pharmacotherapy (including both prescription and non-prescription
+medications) as they apply to endocrine drug therapy management.
+Prerequisite: PHAR 7507, PHAR 7247. Corequisite: PHAR 7248.

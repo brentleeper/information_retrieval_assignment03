@@ -1,0 +1,4 @@
+MATH 4380 - Modeling and Numerical Analysis
+Study of the development of mathematical models focusing on the
+numerical analysis which forms the basis for the models.
+Prerequisite: MATH 3380.

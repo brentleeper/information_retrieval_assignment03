@@ -1,0 +1,9 @@
+PHAR 7507 - Integrated Pharmacy 7
+This course reviews the normal functioning and diseases of the
+pulmonary system. Students will learn to identify pulmonary diseases
+and make appropriate treatment recommendations, by integrating their
+knowledge of pulmonary physiology, pathophysiology, pharmacology,
+pharmacokinetics, pharmaceutics and social and behavioral sciences.
+Diseases covered will include, asthma, COPD, respiratory infections,
+cystic fibrosis and pulmonary hypertension.
+Prerequisite: PHAR 7606, PHAR 7246. Corequisite: PHAR 7247.

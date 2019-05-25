@@ -1,0 +1,4 @@
+KINE 5116 - Exercise Metabolism Laboratory
+Study and practice of laboratory techniques used in evaluating metabolic
+responses to exercise.
+Corequisite: KINE 5216.

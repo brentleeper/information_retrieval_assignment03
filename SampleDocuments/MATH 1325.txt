@@ -1,0 +1,7 @@
+MATH 1325 - Mathematics for Business and Economics II
+[TCCN: MATH 1325]
+Study of the real number system, sets, functions, graphs, linear equations,
+linear inequalities, differential and integral calculus.
+Prerequisite: MATH 1324 or MATH 1314. (Credit not given to
+mathematics majors, minors, or students using mathematics as a
+secondary teaching specialization.).

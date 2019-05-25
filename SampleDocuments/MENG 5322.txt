@@ -1,0 +1,7 @@
+MENG 5322 - CAD/CAM
+This course covers topics in object representation, geometric
+transformations, solid modeling, feature-based modeling, computer
+numerical control, kinematic modeling, and machining simulation and
+computer animation appropriate for the graduate level of work. Co-listed
+MENG 4322.
+Prerequisite: MENG 1201, MATH 3404 or equivalents.

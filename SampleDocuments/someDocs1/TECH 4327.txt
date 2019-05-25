@@ -1,0 +1,5 @@
+TECH 4327 - Electronic Data Communications
+A study of the application-to-application transfer of documentation in
+industrial distribution, customer service, and manufacturing. Traditional
+and Internet applications of electronic data interchange (EDI) and other
+forms of electronic commerce are investigated.

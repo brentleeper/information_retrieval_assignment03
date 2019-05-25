@@ -1,0 +1,7 @@
+MENG 4322 - CAD/CAM
+This course covers topics in object representation, geometric
+transformation, solid modeling, feature-based modeling, computer
+numerical control, kinematic modeling, and machining simulation and
+computer animation appropriate for the undergraduate level of work.
+Three hours of lecture per week.
+Prerequisite: MATH 3404, MENG 1201.

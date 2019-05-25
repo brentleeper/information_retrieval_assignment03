@@ -1,0 +1,6 @@
+MATH 4161 - Senior Seminar II
+This "capstone" course is designed to evaluate what the student has
+learned as a math major at UT Tyler and to give the student an
+opportunity to explore additional mathematical ideas from start to finish
+outside the classroom with a faculty mentor.
+Prerequisite: MATH 4160.

@@ -1,0 +1,8 @@
+MENG 4320 - Design for Manufacturing
+Design principles for achieving quick, low cost product introduction
+through consideration of cost, quality, reliability, maintainability, 
+72| UNIVERSITY OF TEXAS AT TYLER 2016-2017 CATALOG
+appearance and ergonomics; consideration of the interaction between
+design, materials, and method of production. Three hours of lecture per
+week.
+Prerequisite: MENG 3319.

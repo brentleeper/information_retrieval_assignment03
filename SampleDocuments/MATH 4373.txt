@@ -1,0 +1,6 @@
+MATH 4373 - Applied Mathematics II
+Continuation of MATH 3373. Development of mathematical ideas
+needed to solve problems in the physical sciences. Topics include heat,
+wave and Laplace equations, use of Fourier methods to solve boundary
+value problems and the development of Sturm-Liouville Theory.
+Prerequisite: MATH 3373.

@@ -1,0 +1,3 @@
+KINE 5216 - Exercise Metabolism
+In-depth study of metabolic responses to acute and chronic exercise.
+Corequisite: KINE 5116 or 5217.

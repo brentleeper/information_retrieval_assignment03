@@ -1,0 +1,5 @@
+MCOM 3370 - Web Design
+The students will be introduced to various ways of putting web pages
+together by the use of HTML, Dreamweaver and CSS, and prepare web
+appropriate images with Photoshop.
+Prerequisite: MCOM 2306.

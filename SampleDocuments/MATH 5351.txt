@@ -1,0 +1,4 @@
+MATH 5351 - Mathematical Probability
+Axiomatic development of probability, distributions, mathematical
+expectation, moments, and generating functions.
+Prerequisite: MATH 3345 or equivalent.

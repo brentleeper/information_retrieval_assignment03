@@ -1,0 +1,4 @@
+TECH 2323 - Introduction to Computer Applications
+A study of personal computer applications in the business environment
+with emphasis on specifying, installing, and using business applications
+and ERP systems such as SAP.

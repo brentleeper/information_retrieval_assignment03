@@ -1,0 +1,4 @@
+TECH 4348 - Warehousing
+Concerns organizing, stocking, inventorying, scheduling, transporting,
+packaging, receiving, loss accounting and fire protection for warehouse
+operation.

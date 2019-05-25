@@ -1,0 +1,3 @@
+TECH 4304 - Systems Safety Analysis
+Study of accidents as systematic occurrences. Topics include probability,
+fault-free analysis and loss controls.

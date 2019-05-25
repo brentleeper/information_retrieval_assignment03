@@ -1,0 +1,7 @@
+PHYS 1102 - College Physics II Laboratory [TCCN: PHYS
+1102]
+Basic experiments involving electricity, magnetism, sound, and light are
+carried out by majors other than chemistry, computer science, and
+engineering. Students may not receive credit for both PHYS 1102 and
+PHYS 2126. Satisfies 1 hour of the STEM core requirements.
+Corequisite: PHYS 1302.

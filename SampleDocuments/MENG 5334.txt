@@ -1,0 +1,6 @@
+MENG 5334 - Continuum Mechanics
+Study of the physical and mathematical principles relating to the
+behavior of continuous media and interrelationships between fluid and
+solid mechanics. Topics include compatibility, constitutive relations,
+isotropy and orthotropy, field equations, and ME applications.
+Prerequisite: MENG 3306 or equivalent.

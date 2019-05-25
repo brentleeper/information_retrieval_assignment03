@@ -1,0 +1,6 @@
+MENG 5338 - Conduction Heat Transfer
+Analytical methods in conduction; Bessel functions, separation of
+variables, Laplace transforms, superposition, oscillating solutions;
+computer methods; finite differences, finite elements.
+Prerequisite: MENG 3316 or equivalent undergraduate heat transfer
+course.

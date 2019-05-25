@@ -1,0 +1,4 @@
+MATH 3380 - Algorithms in Applied Mathematics
+Study of applications selected from descriptive statistics, combinatorics,
+numerical methods, and matrices utilizing the computer.
+Prerequisite: MATH 2413.

@@ -1,0 +1,5 @@
+KINE 3306 - Fitness Assessment Skills
+Development of knowledge and skills required for evaluation of healthrelated
+and sport-related fitness.
+Prerequisite: Either BIOL 2301 and BIOL 2101 (Lecture and lab) or
+KINE 2330.

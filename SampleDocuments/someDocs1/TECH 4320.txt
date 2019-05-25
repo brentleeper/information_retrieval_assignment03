@@ -1,0 +1,3 @@
+TECH 4320 - Job Analysis and Design
+Provides a systematic procedure for identifying and analyzing tasks
+related to specific jobs.

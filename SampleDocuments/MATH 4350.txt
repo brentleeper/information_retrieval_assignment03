@@ -1,0 +1,6 @@
+MATH 4350 - Theory of Probability
+Study of mathematical probability theory. Emphasis is given to
+combinatorial analysis, axioms of probability, conditional probability,
+random variables, density functions, distribution functions, moments,
+and limit theorems.
+Prerequisite: MATH 2414 and MATH 3425.

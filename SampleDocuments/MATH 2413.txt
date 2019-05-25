@@ -1,0 +1,8 @@
+MATH 2413 - Calculus I [TCCN: MATH 2413]
+A study of functions, limits, continuity, differentiation of algebraic and
+trigonometric functions, applications of the derivative, definite and
+indefinite integrals with applications.
+Prerequisite: Satisfactory math score on SAT, ACT or THEA and "C" or
+better in MATH 1316, or passing score on departmental trigonometry
+test, or "C" or better in MATH 2312. Corequisite: Mathematics majors
+must concurrently take MATH 2113.

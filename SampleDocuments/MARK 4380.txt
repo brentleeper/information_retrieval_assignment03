@@ -1,0 +1,5 @@
+MARK 4380 - Marketing Research
+Informational input for decision making, scientific method, research
+design, and sampling relative to the research process for the solution of
+marketing problems.
+Prerequisite: MARK 3311 and MATH 1342.

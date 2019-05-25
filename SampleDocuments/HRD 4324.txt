@@ -1,0 +1,7 @@
+HRD 4324 - Multimedia and Animation Techniques
+A technical course that develops advanced knowledge and skills in the
+use of computers for multimedia presentations and digital animation. It
+introduces students to 3-D modeling and rendering techniques and
+resources. This hands-on course allows students to create, edit, and
+render objects, and to design and produce multimedia presentations that
+use images, video, and audio resources to deliver a message.

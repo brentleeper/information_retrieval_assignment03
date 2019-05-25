@@ -1,0 +1,5 @@
+MATH 1342 - Statistics [TCCN: MATH 1342]
+Measures of central tendency and dispersion, sampling, probability,
+testing of hypothesis, correlation and regression, and analysis of
+variance.
+Prerequisite: Appropriate score on ACT, SAT or TSI.

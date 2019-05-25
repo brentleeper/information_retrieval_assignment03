@@ -1,0 +1,3 @@
+TECH 4316 - Time and Motion Study
+Time and motion studies necessary to analyze industrial operations,
+ratings, allowances, data, formulas, work samples, and jobs.

@@ -1,0 +1,10 @@
+MENG 3210 - Mechanical Engineering Laboratory I
+Experimental measurement of electromechanical systems. Sensors for
+measuring Strain, Force, Pressure, Displacement, Acceleration, and
+Temperature will be introduced as well as data acquisition and signal
+processing techniques. Student teams will design, analyze and document
+an experimental procedure. All procedures will result in a professional
+quality laboratory report. One hour of lecture and three hours of
+laboratory per week.
+Prerequisite: ENGR 1201 or completion of a technical writing course,
+MENG 2201, PHYS 2326, PHYS 2126.

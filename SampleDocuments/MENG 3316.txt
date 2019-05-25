@@ -1,0 +1,8 @@
+MENG 3316 - Heat Transfer
+Fundamentals and applications of conduction, convection, and radiation
+heat transfer. Analysis of steady-state and transient conduction
+employing analytical methods and numerical techniques. Simple theory
+of laminar and turbulent, free and forced convection and use of practical
+correlations. Basic thermal radiation concepts and applications. Three
+hours of lecture per week.
+Prerequisite: MENG 3301 and MENG 3310.

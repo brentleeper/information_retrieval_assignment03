@@ -1,0 +1,7 @@
+TECH 5390 - Advanced Lean Six Sigma Black Belt
+Techniques
+An in-depth analysis of lean and statistical tools used to reduce costs and
+improve process or transactional flow through an organization. The
+DMAIC approach will be discussed as well as most topics currently
+covered on lean six sigma certification exams.
+Prerequisite: TECH 5310 Six Sigma Quality.

@@ -1,0 +1,5 @@
+MATH 3203 - Matrix Methods in Science and Engineering
+Matrices and matrix algebra, determinants, systems of linear equations,
+Gaussian elimination, eigenvalues and eigenvectors, linear
+transformations, applications in science and engineering.
+Prerequisite: MATH 2413.

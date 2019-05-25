@@ -1,0 +1,7 @@
+MENG 5327 - Quality Control and Engineering Statistics
+Statistical methods and theory applicable to problems of product and
+process development and process monitoring; control charts, feedback
+control; experimental techniques and analysis in robust product design
+and process improvement; sampling, elements of six-sigma
+methodology.
+Prerequisite: MATH 3351 or equivalent.

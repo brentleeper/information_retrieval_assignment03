@@ -1,0 +1,4 @@
+MATH 4342 - Introduction to Complex Variables
+Study of functions of a complex variable. Emphasis is given to analytic
+functions, differentiation, integration, series expansions.
+Prerequisite: MATH 3345.

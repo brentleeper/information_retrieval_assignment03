@@ -1,0 +1,6 @@
+MENG 5342 - Energy Management
+Introduction to concepts and tools related to energy management
+program, energy audit, energy accounting, economic analysis, and
+energy conservation measures for systems that use energy. Industrial
+applications are included.
+Prerequisite: MENG 3301, MENG 3304 or equivalents.

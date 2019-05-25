@@ -1,0 +1,4 @@
+TECH 4342 - Applied Geodesy
+Application of precise surveying technology in boundary location and
+surveying. Topics covered are: photogrammetry, GPS, GIS, remote
+sensing, coordinate systems, and map projections.

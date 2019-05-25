@@ -1,0 +1,5 @@
+MENG 3309 - Mechanical Systems Design
+Characterization, design, selection, and integration of mechanical
+systems and components including shafts, bearings, seals, gears, springs,
+mechanical fasteners, linkages. Three hours of lecture per week.
+Prerequisite: MENG 3303 and MENG 3306.

@@ -1,0 +1,4 @@
+MATH 5305 - Logic and Foundations
+Mathematical logic, detailed and rigorous study of set theory,
+introduction to axiomatic systems, examination of real number systems.
+Prerequisite: Graduate Standing.
