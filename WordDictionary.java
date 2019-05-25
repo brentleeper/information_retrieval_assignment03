@@ -3,7 +3,7 @@ Name: 			Brent Leeper
 Date: 			3/26/18
 Course: 			4315
 Semester: 		Spring 2018
-Assignment #: 	1
+Assignment #: 	3
 Description: 	Word Dictionary for IR system. 
 				Stores data (DictionaryEntry) of words that are found in a collection of files
 				and relevant data. The Object is serializable and can be loaded instead of 
